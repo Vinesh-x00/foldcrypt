@@ -12,8 +12,6 @@ Key Features
 
 ## Installation
 
-You need to have Flutter 22.3+ installed
-
 ```bash
   git clone https://github.com/Vinesh-x00/foldcrypt.git
 ```
